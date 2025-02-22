@@ -1,0 +1,2 @@
+# SimpleLinearRegression
+After gaining basic knowledge about python libraries, the next step was to learn how to preprocess a dataset. After acquiring the skill, the next approach was how to deploy machine learning models on a given dataset. My first machine learning model was simple linear regression it demonstrates how to predict a target variable based on one independent variable and for that we’ll use the popular dataset of house prices based on square footage.
